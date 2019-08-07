@@ -1,0 +1,8 @@
+
+=======================================
+-----BitBucket related config
+=======================================
+:::Source tree::::
+
+**SourceTree change password of existing account
+=> ~\AppData\Local\Atlassian\SourceTree\userhost
